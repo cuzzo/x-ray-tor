@@ -1,0 +1,33 @@
+{
+  "name": "x-ray-tor",
+  "version": "0.0.4",
+  "description": "Tor driver for x-ray",
+  "author": "Brian Yahn <yahn007@gmail.com>",
+  "keywords": [
+    "tor",
+    "x-ray",
+    "crawl"
+  ],
+  "contributors": [
+    {
+      "name": "Brian Yahn",
+      "email": "yahn007@gamil.com"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cuzzo/x-ray-tor"
+  },
+  "bugs": {
+    "url": "https://github.com/cuzzo/x-ray-tor/issues"
+  },
+  "dependencies": {
+    "tor-request": "^1.0.6"
+  },
+  "preferGlobal": true,
+  "private": false,
+  "analyze": true
+}
